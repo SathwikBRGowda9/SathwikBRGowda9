@@ -1,35 +1,38 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sathwik B R
+# 👋 Hi, I'm Sathwik B R
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6a11cb,50:2575fc,100:00c6ff&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Programmer%20•%20YouTuber%20•%20Affiliate%20Marketer%20•%20Content%20Creator&descAlignY=58"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Software+Engineer;Spring+Boot+Developer;React+Developer;Python+Developer;Open+Source+Contributor;Content+Creator;Always+Learning+🚀"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+Developer;Java+Developer;C%2FC%2B%2B+Programmer;Content+Creator;Affiliate+Marketer;Open+Source+Contributor;Always+Learning+New+Technologies"/>
-
-<img src="https://komarev.com/ghpvc/?username=SathwikBRGowda9&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=SathwikBRGowda9&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/SathwikBRGowda9?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/stars/SathwikBRGowda9?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/SathwikBRGowda9?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+🎓 Bachelor of Computer Applications (BCA)
 
-### 👨‍💻 Who Am I?
+💼 Java Full Stack Developer
 
-- 🚀 Passionate Software Developer
-- 📺 YouTube Content Creator
-- 💰 Affiliate Marketer
-- 💡 Problem Solver
-- 🌱 Currently Learning AI & Full Stack Development
-- ❤️ Love Programming
-- 🔥 Open Source Enthusiast
-- 🎯 Goal: Build Amazing Software
+💻 Software Engineer
+
+🌱 Learning AI, Cloud & System Design
+
+❤️ Open Source Contributor
+
+📺 YouTube Content Creator
+
+📈 Digital Marketer
+
+🚀 1500+ GitHub Contributions
+
+🏆 10+ Open Source Projects
 
 ---
 
@@ -38,36 +41,68 @@
 <p align="center">
 
 <a href="https://instagram.com/affiliate_marketing_076">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="https://youtube.com/@Learncodewithtech">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="<YOUR_LINKEDIN_URL>">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/SathwikBRGowda9">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
-
----
-
-# 💻 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,html,css,dart"/>
+<a href="https://drive.google.com/file/d/1ZPojM-JilV1CAwcyQiil1juVn9gPqjfk/view">
+<img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=googledrive"/>
+</a>
 
 </p>
 
 ---
 
-# 🚀 Frameworks & Tools
+# 💻 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode,androidstudio,linux,canva"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,flask"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse"/>
 
 </p>
 
@@ -77,9 +112,9 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SathwikBRGowda9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SathwikBRGowda9&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathwikBRGowda9&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathwikBRGowda9&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -109,73 +144,118 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SathwikBRGowda9&theme=algolia&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SathwikBRGowda9&theme=algolia&column=4&no-frame=true"/>
 
 </p>
 
 ---
 
-# 📊 Coding Activity
+# 💼 Experience
 
-<p align="center">
+### 💻 Java Full Stack Intern
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SathwikBRGowda9&theme=tokyonight"/>
+📍 Sri JCBM College + MTD Mysore
 
-</p>
+- Spring Boot
+- React JS
+- REST APIs
+- MySQL
+- Java
 
----
+### 📈 Digital Marketing & Content Creation
 
-# 📌 Top Contributions
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SathwikBRGowda9&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SathwikBRGowda9&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ GitHub Details
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SathwikBRGowda9&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SathwikBRGowda9&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
+- Canva
+- Branding
+- Social Media
+- Affiliate Marketing
 
 ---
 
-# 💼 Featured Skills
+# 🚀 Featured Projects
 
-| Category | Skills |
-|----------|--------|
-| 💻 Programming | C, C++, C#, Java, Python, PHP |
-| 🌐 Web Development | HTML, CSS, JavaScript |
-| 📱 Mobile Development | Dart, Flutter |
-| ☁ Backend | Firebase |
-| 🎨 Designing | Canva |
-| 📹 Content Creation | YouTube |
-| 💰 Digital Marketing | Affiliate Marketing |
+## 🩸 Online Blood Donation System
 
----
+Spring Boot • React • MySQL
 
-# 🎯 Current Goals
+✔ REST APIs
 
-- 🤖 Artificial Intelligence
-- 🌐 MERN Stack
-- 📱 Flutter Apps
-- ☁ Cloud Computing
-- 🔥 Open Source Contributions
-- 🎥 Programming Tutorials
-- 🚀 Build Useful Products
+✔ Responsive UI
+
+✔ Donor Management
 
 ---
 
-# 💬 Random Dev Quote
+## 🤖 Face Recognition Attendance
+
+Python • Flask
+
+✔ Face Detection
+
+✔ Automated Attendance
+
+✔ AI Powered
+
+---
+
+## 🎮 Gaming Web Platform
+
+HTML • CSS • JavaScript
+
+✔ Responsive UI
+
+✔ Interactive Games
+
+---
+
+## 📚 Library Management System
+
+C#
+
+✔ CRUD Operations
+
+✔ Database Management
+
+---
+
+# 📜 Certifications
+
+🏅 Java Swing GUI — Udemy
+
+🏅 Digital 101 Journey — FutureSkills Prime (NASSCOM)
+
+🏅 10+ Open Source Projects
+
+🏅 1500+ GitHub Contributions
+
+---
+
+# 🎯 Currently Learning
+
+☁ Cloud Computing
+
+🤖 Artificial Intelligence
+
+🏗 System Design
+
+⚡ Spring Security
+
+🐳 Docker
+
+---
+
+# 📈 Coding Profiles
+
+⭐ GitHub
+
+📺 YouTube
+
+💼 LinkedIn
+
+📄 Resume
+
+---
+
+# 💬 Dev Quote
 
 <p align="center">
 
@@ -185,34 +265,26 @@
 
 ---
 
-# ⚙️ Fun Fact
+# ⚡ Fun Fact
 
-```text
+```java
 while(alive){
-    eat();
-    code();
-    learn();
-    sleep();
-    repeat();
+    Learn();
+    Code();
+    Build();
+    Share();
+    Repeat();
 }
 ```
 
 ---
 
-# ❤️ Thanks for Visiting!
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
-
----
-
 <div align="center">
 
-## ⭐ If you like my work, consider giving my repositories a star!
+## ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6a11cb,50:2575fc,100:00c6ff"/>
+### If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6a11cb,100:2575fc"/>
 
 </div>
