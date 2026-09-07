@@ -43,6 +43,14 @@ I'm **Sathwik B R**, a Java full stack developer who enjoys building practical p
 
 [Explore my repositories →](https://github.com/SathwikBRGowda9?tab=repositories)
 
+## GitHub contribution totals
+
+![All-time, current-year, and last-365-day contribution totals](https://raw.githubusercontent.com/SathwikBRGowda9/SathwikBRGowda9/output/contribution-stats.svg)
+
+These totals come from GitHub's contribution calendars, summed from my account creation year and refreshed daily. They include contributions visible to the workflow; private activity may be excluded. Contributions are GitHub-counted activity, not every Git commit.
+
+[View yearly totals](https://github.com/SathwikBRGowda9/SathwikBRGowda9/blob/output/contribution-stats.json) · [View my live contribution calendar](https://github.com/SathwikBRGowda9?tab=overview)
+
 ## Contributions in motion
 
 <picture>
@@ -53,10 +61,7 @@ I'm **Sathwik B R**, a Java full stack developer who enjoys building practical p
 
 <sub>Updated daily with GitHub Actions.</sub>
 
-<details>
-<summary><b>More GitHub activity</b></summary>
-
-<br />
+### Streak and recent activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SathwikBRGowda9&theme=tokyonight&hide_border=true" alt="Sathwik's GitHub contribution streak" width="495" />
@@ -64,7 +69,7 @@ I'm **Sathwik B R**, a Java full stack developer who enjoys building practical p
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SathwikBRGowda9&bg_color=0d1117&color=38bdf8&line=818cf8&point=22d3ee&area=true&hide_border=true" alt="Sathwik's recent GitHub contribution activity" width="100%" />
 
-</details>
+
 
 ## Certifications
 
@@ -82,3 +87,4 @@ Thanks for stopping by. Explore a project or [learn along with me on YouTube](ht
 <img src="https://komarev.com/ghpvc/?username=SathwikBRGowda9&label=Profile+views&color=0284c7&style=flat-square" alt="Profile view counter" />
 
 </div>
+
