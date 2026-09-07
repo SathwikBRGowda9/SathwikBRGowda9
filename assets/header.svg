@@ -1,0 +1,28 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">Sathwik B R — Java Full Stack Developer</title>
+<desc id="desc">Dark developer banner with floating code symbols and flowing cyan and violet lines.</desc>
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#6366f1" stop-opacity=".28"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+<style>
+.float{animation:float 6s ease-in-out infinite}.second{animation-delay:-3s}.pulse{animation:pulse 4s ease-in-out infinite}.dash{stroke-dasharray:10 18;animation:flow 12s linear infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes flow{to{stroke-dashoffset:-280}}
+@media(prefers-reduced-motion:reduce){.float,.pulse,.dash{animation:none}}
+</style>
+</defs>
+<rect x="1" y="1" width="998" height="298" rx="22" fill="#0d1117" stroke="#303b50"/>
+<rect x="2" y="2" width="996" height="296" rx="22" fill="url(#grid)"/>
+<ellipse cx="790" cy="160" rx="300" ry="210" fill="url(#glow)"/>
+<path d="M24 270H360L395 245H620L670 270H976" fill="none" stroke="url(#accent)" stroke-opacity=".35"/>
+<path class="dash" d="M24 270H360L395 245H620L670 270H976" fill="none" stroke="url(#accent)" stroke-width="2"/>
+<circle class="pulse" cx="54" cy="50" r="5" fill="#22d3ee"/>
+<text x="70" y="55" fill="#94a3b8" font-family="monospace" font-size="12" letter-spacing="3">LEARN / BUILD / SHARE</text>
+<text x="50" y="133" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700">Sathwik B R<tspan fill="#22d3ee">.</tspan></text>
+<text x="53" y="177" fill="#a5b4fc" font-family="Segoe UI,Arial,sans-serif" font-size="25">Java Full Stack Developer</text>
+<text x="54" y="214" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="16">Curiosity in. Real projects out.</text>
+<g class="float"><rect x="755" y="70" width="155" height="125" rx="18" fill="#111827" stroke="url(#accent)" stroke-width="2"/><text x="777" y="150" fill="url(#accent)" font-family="monospace" font-size="54" font-weight="700">&lt;/&gt;</text></g>
+<g class="float second" fill="#818cf8" font-family="monospace" font-size="24"><text x="704" y="67">{ }</text><text x="919" y="224">;</text></g>
+</svg>
